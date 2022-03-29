@@ -1,0 +1,6 @@
+#Creando una función cuyos parámetros sean dos numeros enteros
+def Suma_Dos_Enteros(x, y):
+  return x+y
+
+#Llamando a la función utilizando dos parámetros de prueba e imprimiendo el resultado
+print(Suma_Dos_Enteros(2, 3))
